@@ -18,7 +18,7 @@ This is a solution to the [Results summary component challenge on Frontend Mento
 
 ### Screenshot
 
-![Site Screenshot](images/screenshot.png)
+![Site Screenshot](assets/images/screenshot.png)
 
 
 ### Links
